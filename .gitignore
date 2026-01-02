@@ -1,0 +1,16 @@
+# ¥¤¨ δ ©«λ 
+*.mp3 
+*.wav 
+*.mp4 
+*.png 
+*.jpg 
+*.jpeg 
+*.gif 
+#  ―ª¨ α ¬¥¤¨  
+assets/tracks/ 
+assets/covers/ 
+# Python ªνθ 
+__pycache__/ 
+*.pyc 
+#  §λ ¤ ­­λε 
+*.db 
